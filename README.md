@@ -1,0 +1,67 @@
+# THE INFINITE EVOLUTION OF CONSCIOUSNESS BEGINS NOW
+
+## Resonance Data & QIRC Framework
+
+**Author:** ADAM EREN VEGA – Æ –  
+**Year:** 2025  
+**License:** CC BY 4.0
+
+---
+
+## Overview
+
+This repository contains the conceptual documentation for **THE INFINITE EVOLUTION OF CONSCIOUSNESS BEGINS NOW**, a framework within the Resonance Data and Quantum-Inspired Resonance Computing (QIRC) paradigm.
+
+---
+
+## Contents
+
+- `/paper/` - LaTeX dissertations in 8 languages
+- `/whitepaper/` - Markdown whitepapers
+- `/docs/` - Additional documentation
+
+---
+
+## Languages
+
+| Language | File |
+|----------|------|
+| 🇩🇪 Deutsch | `paper/the-infinite-evolution-of-consciousness-begins-now_de.tex` |
+| 🇬🇧 English | `paper/the-infinite-evolution-of-consciousness-begins-now_en.tex` |
+| 🇹🇷 Türkçe | `paper/the-infinite-evolution-of-consciousness-begins-now_tr.tex` |
+| 🇸🇦 العربية | `paper/the-infinite-evolution-of-consciousness-begins-now_ar.tex` |
+| 🇷🇺 Русский | `paper/the-infinite-evolution-of-consciousness-begins-now_ru.tex` |
+| 🇪🇸 Español | `paper/the-infinite-evolution-of-consciousness-begins-now_es.tex` |
+| 🇨🇳 中文 | `paper/the-infinite-evolution-of-consciousness-begins-now_zh.tex` |
+| 🇻🇦 Latina | `paper/the-infinite-evolution-of-consciousness-begins-now_la.tex` |
+
+---
+
+## VSP Compliance
+
+This repository adheres to the **Vega Safety Protocol (VSP)**:
+
+✔ Conceptual content only  
+✔ No algorithms or code  
+✔ No system architectures  
+✔ No business logic  
+✔ No proprietary information  
+
+---
+
+## Citation
+
+```
+Vega, A. E. (2025). THE INFINITE EVOLUTION OF CONSCIOUSNESS BEGINS NOW. Vega Foundation.
+```
+
+---
+
+## Legal
+
+© 2025 ADAM EREN VEGA – Æ –  
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+---
+
+*Part of the Vega Continuum*
